@@ -2,7 +2,7 @@
 
 A dynamic Flutter quiz application that tests users' knowledge with an interactive interface and real-time scoring system.
 
-## 📱 Features
+## Features
 
 - Interactive quiz interface
 - Dynamic question progression
@@ -17,6 +17,18 @@ A dynamic Flutter quiz application that tests users' knowledge with an interacti
 - Flutter 
 - Dart
 - Provider (State Management)
+
+## Screenshots
+
+### Hone Screen
+![image_alt](https://github.com/VedantS28/Quiz_App_Flutter/blob/main/screenshots/home_screen.jpg?raw=true)
+
+### Quiz Screen
+![image_alt](https://github.com/VedantS28/Quiz_App_Flutter/blob/main/screenshots/quiz_screen.jpg?raw=true)
+
+### Result Screen
+![image_alt](https://github.com/VedantS28/Quiz_App_Flutter/blob/main/screenshots/result_screen.jpg?raw=true)
+
 
 ## Getting Started
 
